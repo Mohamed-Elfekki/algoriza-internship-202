@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\bin\Debug\net7.0\Services.Email.deps.json
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\bin\Debug\net7.0\Services.Email.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\bin\Debug\net7.0\Services.Email.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.AssemblyInfo.cs
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\refint\Services.Email.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\Services.Email.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Email\obj\Debug\net7.0\ref\Services.Email.dll

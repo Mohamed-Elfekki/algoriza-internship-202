@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\HealthcareSystem\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\VisualStudioProjects\HealthcareSystem\Domain\bin\Debug\net7.0\Domain.dll
+D:\VisualStudioProjects\HealthcareSystem\Domain\bin\Debug\net7.0\Domain.pdb
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.dll
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\Domain.pdb
+D:\VisualStudioProjects\HealthcareSystem\Domain\obj\Debug\net7.0\ref\Domain.dll

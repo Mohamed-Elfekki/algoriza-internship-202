@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Services.Abstractions.deps.json
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Services.Abstractions.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Services.Abstractions.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Application.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Domain.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Application.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\bin\Debug\net7.0\Domain.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.AssemblyInfo.cs
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.csproj.CopyComplete
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\refint\Services.Abstractions.dll
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\Services.Abstractions.pdb
+D:\VisualStudioProjects\HealthcareSystem\Services.Abstractions\obj\Debug\net7.0\ref\Services.Abstractions.dll
